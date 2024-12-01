@@ -59,7 +59,7 @@ def display_opportunities(data):
 
 # Streamlit app
 def main():
-    st.title("Market Insights for Food & Beverage in Belgaum")
+    st.title("Market Insights By Gemini 1.5 Flash")
     
     # Upload JSON file
     uploaded_file = st.file_uploader("Upload JSON File", type=["json"])
